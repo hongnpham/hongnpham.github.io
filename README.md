@@ -61,7 +61,7 @@ Associated with Cambrian College Project<br>
 The Portfolio is a tool for presenting my skills to potential employers. It demonstrates my professional abilities, encompassing programming, infographics, charts, statistics, and other products in my academic journey.<br>
 Skills: Flask · Python (Programming Language) · HTML5 · JavaScript · Cascading Style Sheets (CSS)<br>
 
-## Professional Experience: <br>
+## Professional Experiences: <br>
 
 **Research and Data Analyst Co-op**<br>
 City of Greater Sudbury<br>
@@ -109,6 +109,16 @@ Vietsovpetro | Co-op<br>
 VungTau, Vietnam | Mar 2016 - Jun 2016
 
 I did a thesis titled: Evaluate petroleum potential and identify drilling well location in the Cuu Long Basin – Offshore Vietnam.<br>
+
+## Volunteer Experiences: <br>
+
+**Junction Creek Stewardship Committee**<br>
+Worked at Arboretum Planting Event and Junction Creek Shoreline Cleanup | 06/2023 – 07/2024<br>
+Sudbury ON, Canada
+
+**Northern Community Events Group**<br>
+Coordinated at Spring Fling and Summer Fest to keep the festival rolling smoothly | 06 – 09/2023<br>
+Sudbury ON, Canada
 
 ## Recommendations: <be>
 
