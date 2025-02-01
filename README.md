@@ -1,6 +1,7 @@
 # Data Science Enthusiast <br>
 
-> Something Overview. <br>
+> As a dedicated newbie to the Data analytics field, I have started my journey to transform data into valuable visualizations and comprehensible insights. My goal is to identify specific business challenges and recommend data-driven decisions. I use SQL, R, Python, Power BI, and Tableau for my data projects. I am learning as I go!<br>
+> My career began in customer service, where I learned to understand what customers want and need. I have since transitioned into the data industry, where I use customer service analytics to enhance the overall customer experience, help businesses lead to increased sales and revenue, and stay ahead of the competition. <br>
 
 **Software:** Python, R, SQL, Tableau, GitHub, Power BI <br>
 **Statistical Concepts:** Regression Analysis, Survival Analysis, Data Visualization<br>
