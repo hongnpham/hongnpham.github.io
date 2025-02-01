@@ -1,5 +1,6 @@
 # Site settings
 title: Hong Nhung Pham
+logo: hong.png
 email: hongpham.analyst@gmail.com
 description: Master's student in Management in Data Analytics
 baseurl: "" # the subpath of your site, e.g. /blog
