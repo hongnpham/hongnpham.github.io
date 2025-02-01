@@ -15,6 +15,7 @@
 
 Master in Management in Data Analytics | The University of Winnipeg (_2024 - 2025_)<br>
 Graduate Certificate, Business Analytics | Cambrian College (_2024_)<br>
+Master of Business Administration - MBA | UBIS (_2018_)
 Bachelor of Science (BSc), Geology/Earth Sciences | VNUHCM - University of Science (_2012 - 2016_)<br>
 
 ## Projects:<br>
