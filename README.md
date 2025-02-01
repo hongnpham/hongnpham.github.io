@@ -59,7 +59,6 @@ Associated with Cambrian College Project<br>
 2024<br>
 
 The Portfolio is a tool for presenting my skills to potential employers. It demonstrates my professional abilities, encompassing programming, infographics, charts, statistics, and other products in my academic journey.<br>
-The Portfolio is a tool for presenting my skills to potential employers. It demonstrates my professional abilities, encompassing programming, infographics, charts, statistics, and other products in my academic journey.<br>
 Skills: Flask · Python (Programming Language) · HTML5 · JavaScript · Cascading Style Sheets (CSS)<br>
 
 ## Professional Experience: <br>
